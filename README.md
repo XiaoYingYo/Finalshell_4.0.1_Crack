@@ -10,11 +10,11 @@ FinalShell是一体化的的服务器, 网络管理软件, 不仅是SSH客户端
 
 <p align="center">
   [Telegram:<a target="_blank" href="//t.me/tgcallmy">@tgcallmy</a>]
-  [加入组织:<a target="_blank" href="//call.callmy.cn">点击跳转</a>]
+  [加入组织:<a target="_blank" href="//call.oopmm.com">点击跳转</a>]
   [版本:实时最新版]
-  [修补:<a target="_blank" href='//callmy.cn/'>@魔影网络</a>]<br>
-  [★下载★:<a target="_blank" href="//finalshell.callmy.cn/">★FinalShell <strong align="center" color="red" style="font-size:20px;font-weight:1000;color:red;">最新版</strong> 专业版★</a>]
-  [★获取★:<a style="color:blue;font-size:20px;" target="_blank" href="//bbs.callmy.cn/thread-41-1-1.html">★离线激活码★</a>]
+  [修补:<a target="_blank" href='//oopmm.com/'>@魔影网络</a>]<br>
+  [★下载★:<a target="_blank" href="//finalshell.oopmm.com/">★FinalShell <strong align="center" color="red" style="font-size:20px;font-weight:1000;color:red;">最新版</strong> 专业版★</a>]
+  [★获取★:<a style="color:blue;font-size:20px;" target="_blank" href="//bbs.oopmm.com/thread-41-1-1.html">★离线激活码★</a>]
 </p>
 
 # 修补内容
